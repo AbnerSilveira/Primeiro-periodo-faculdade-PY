@@ -1,6 +1,6 @@
-# Primeiro-periodo-faculdade-PY
+# Primeiro periodo faculdade.
 
- Exercicios e projetos do meu primeiro periodo da faculdade; 
+ Exercícios e projetos/ desafios do meu primeiro periodo da faculdade; 
  
  * Matéria: Introdução Algoritimos;
  * Linguagem: Python.
